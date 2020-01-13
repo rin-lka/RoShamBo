@@ -1,0 +1,12 @@
+C:\Users\olive\source\repos\RoShamBoBois\RoShamBoBois\obj\Debug\RoShamBoBois.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\RoShamBoBois\RoShamBoBois\bin\Debug\RoShamBoBois.exe.config
+C:\Users\olive\source\repos\RoShamBoBois\RoShamBoBois\bin\Debug\RoShamBoBois.exe
+C:\Users\olive\source\repos\RoShamBoBois\RoShamBoBois\bin\Debug\RoShamBoBois.pdb
+C:\Users\olive\source\repos\RoShamBoBois\RoShamBoBois\obj\Debug\RoShamBoBois.exe
+C:\Users\olive\source\repos\RoShamBoBois\RoShamBoBois\obj\Debug\RoShamBoBois.pdb
+D:\source\repos\RoShamBoBois\RoShamBoBois\bin\Debug\RoShamBoBois.exe.config
+D:\source\repos\RoShamBoBois\RoShamBoBois\bin\Debug\RoShamBoBois.exe
+D:\source\repos\RoShamBoBois\RoShamBoBois\bin\Debug\RoShamBoBois.pdb
+D:\source\repos\RoShamBoBois\RoShamBoBois\obj\Debug\RoShamBoBois.csprojAssemblyReference.cache
+D:\source\repos\RoShamBoBois\RoShamBoBois\obj\Debug\RoShamBoBois.exe
+D:\source\repos\RoShamBoBois\RoShamBoBois\obj\Debug\RoShamBoBois.pdb
